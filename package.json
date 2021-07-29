@@ -25,7 +25,8 @@
   "dependencies": {
     "ajv": "^7.1.1",
     "openpgp": "^4.10.10",
-    "ws": "^7.4.3"
+    "ws": "^7.4.3",
+    "ajv-formats": "^1.5.1"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
@@ -36,8 +37,5 @@
   "optionalDependencies": {
     "bufferutil": "^4.0.3",
     "utf-8-validate": "^5.0.4"
-  },
-  "peerDependencies": {
-    "ajv-formats": "^1.5.1"
   }
 }
